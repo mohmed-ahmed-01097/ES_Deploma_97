@@ -2,8 +2,8 @@
 Embedded System Deploma Repo
 * "و ان ليس للانسان الا ما سعي"
 * "مفيش كلية بتضمنلك شغلك و مستقبلك انت المسئول عن ده بشغلك و سعيك"
-* be active all time "دور و حل و جرب و شوف"
-* selfstudy needs hand work "حل و اشتغل علي مشاريع"
+* "دور و حل و جرب و شوف" be active all time 
+* "حل و اشتغل علي مشاريع" selfstudy needs hand work 
 ---
 # Embedded System topics :
 - Embedded system service
@@ -13,17 +13,15 @@ Embedded System Deploma Repo
 
 ## Contents
 
-- [Introduction to Embedded System](#introduction-to-embedded-system)_____________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [C Language](#c-language)_____________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [MCU Interfacing](#mcu-interfacing)________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [ARM Archetecture](#arm-archetecture)______________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [RTOS](#rtos)____________________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [AUTOSAR](#autosar)_______________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-
+- ![image](https://progress-bar.dev/0/?title=_Done__&color=ff0000&width=200) [Introduction to Embedded System](#introduction-to-embedded-system)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [C Language](#c-language)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [MCU Interfacing](#mcu-interfacing)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [ARM Archetecture](#arm-archetecture)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [RTOS](#rtos)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [AUTOSAR](#autosar)
 ---
-
-- [Tooling](#tooling)__________________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
-- [SW Engineering](#sw-engineering)_________________________________________________________________________________________![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [Tooling](#tooling)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [SW Engineering](#sw-engineering)
 ---
 
 ---
@@ -38,17 +36,17 @@ mainly C "موت نفسك في البرمجة و اللي بعده ان شاء �
 * Data Structure
 * Algorithms 
 * Problem Solving 
-	- [Hacker Ranck](https://www.hackerrank.com/dashboard)_____________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [Code forice]()_______________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [Top Coder](https://www.topcoder.com/challenges)________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [CoderByte](https://www.coderbyte.com/)________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [Projecteuler](https://projecteuler.net/)______________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [CodeChef](https://www.codechef.com/)________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [Exercism](https://exercism.org/)__________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [CodeWare](https://www.codewars.com/)________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [LeetCode](https://leetcode.com/)_________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [SPOJ](https://www.spoj.com/)______________________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
-	- [CodinGame](https://www.codingame.com/start)_______________________________________________![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [Hacker Ranck](https://www.hackerrank.com/dashboard)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [Code forice]()
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [Top Coder](https://www.topcoder.com/challenges)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [CoderByte](https://www.coderbyte.com/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [Projecteuler](https://projecteuler.net/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [CodeChef](https://www.codechef.com/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [Exercism](https://exercism.org/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [CodeWare](https://www.codewars.com/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [LeetCode](https://leetcode.com/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [SPOJ](https://www.spoj.com/)
+	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [CodinGame](https://www.codingame.com/start)
 	
 ### Plus
 - [Object Orianted Programming OOP]()
@@ -58,16 +56,16 @@ mainly C "موت نفسك في البرمجة و اللي بعده ان شاء �
 - Prephirals interfacing
 - How to read datasheets & act with many Microcontroller
 - Write Drivers
-	- [GPIO](https://github.com/mohmed-ahmed-01097/test_repo/tree/main/test)___________________________________________![image](https://progress-bar.dev/0/)
-	- [GPTMR](test)_________________________________________![image](https://progress-bar.dev/0/)
-	- [ADC](test)____________________________________________![image](https://progress-bar.dev/0/)
-	- [DAC](test)____________________________________________![image](https://progress-bar.dev/0/)
-	- [PWM](test)___________________________________________![image](https://progress-bar.dev/0/)
-	- [INT](test)_____________________________________________![image](https://progress-bar.dev/0/)
-	- [UART](test)___________________________________________![image](https://progress-bar.dev/0/)
-	- [USART](test)__________________________________________![image](https://progress-bar.dev/0/)
-	- [SPI](test)______________________________________________![image](https://progress-bar.dev/0/)
-	- [I2C](test)______________________________________________![image](https://progress-bar.dev/0/)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [GPIO](https://github.com/mohmed-ahmed-01097/test_repo/tree/main/test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [GPTMR](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [ADC](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [DAC](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [PWM](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [INT](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [UART](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [USART](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [SPI](test)
+	- ![image](https://progress-bar.dev/0/?title=V1.0) [I2C](test)
 ---
 
 ## ARM Archetecture
