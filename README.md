@@ -15,13 +15,17 @@ Embedded System Deploma Repo
 
 - ![image](https://progress-bar.dev/0/?title=_Done__&color=ff0000&width=200) [Introduction to Embedded System](#introduction-to-embedded-system)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [C Language](#c-language)
-- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [MCU Interfacing](#mcu-interfacing)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [MCU HW Interfacing](#mcu-hw-interfacing)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [ARM Archetecture](#arm-archetecture)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [RTOS](#rtos)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [AUTOSAR](#autosar)
 ---
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [Data Structure & Algorithms](#data-structure-and-algorithms)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [OOP](#object-orianted-programming-oop)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [Tooling](#tooling)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [OS Fundamentals](#os-fundamentals)
 - ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [SW Engineering](#sw-engineering)
+- ![image](https://progress-bar.dev/0/?title=Loading&color=ff0000&width=200) [SW Testing](#sw-testing)
 ---
 
 ---
@@ -47,12 +51,14 @@ mainly C "موت نفسك في البرمجة و اللي بعده ان شاء �
 	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [LeetCode](https://leetcode.com/)
 	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [SPOJ](https://www.spoj.com/)
 	- ![image](https://progress-bar.dev/0/?scale=100&title=Prob&suffix=&width=100&color=ff00ff) [CodinGame](https://www.codingame.com/start)
-	
-### Plus
-- [Object Orianted Programming OOP]()
-- 
+---	
+## Object Orianted Programming OOP
 ---
-## MCU Interfacing
+## Data Structure and Algorithms
+---
+## OS Fundamentals
+---
+## MCU HW Interfacing
 - Prephirals interfacing
 - How to read datasheets & act with many Microcontroller
 - Write Drivers
@@ -102,6 +108,9 @@ mainly C "موت نفسك في البرمجة و اللي بعده ان شاء �
 			V-cycle
 			sprent
 			Agile - Scrum - ...
+
+---
+## SW Testing
 
 ---
 
