@@ -22,8 +22,9 @@
 - [DMA]()
 - [Bootloader]()
 ---
-### [javapoiint ES Tutorial](https://www.javatpoint.com/embedded-system-tutorial)
-Embedded System Tutorial, 8051 MicroController, AVR MicroController, and ES Projects
+## Websites
+* [<img src="https://static.javatpoint.com/images/logo/jtp_logo.png" height=30> [javapoiint ES Tutorial]](https://www.javatpoint.com/embedded-system-tutorial) Embedded System Tutorial, 8051 MicroController, AVR MicroController, and ES Projects
+* [<img src="https://embeddedsecurity.io/img/cover-small.png" height=30> [Embedded Systems Security and TrustZone]](https://embeddedsecurity.io/) provide a beginners resource on embedded systems security. 
 
 
 
